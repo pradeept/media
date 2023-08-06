@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Barbara Koch PhD",
+      "id": 2
+    },
+    {
+      "name": "Salvador Dare",
+      "id": 9
+    },
+    {
+      "name": "Derek Thompson",
+      "id": 10
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
