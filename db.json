@@ -5,18 +5,61 @@
       "name": "Myra"
     },
     {
-      "name": "Barbara Koch PhD",
-      "id": 2
-    },
-    {
       "name": "Salvador Dare",
       "id": 9
     },
     {
-      "name": "Derek Thompson",
+      "name": "Carroll Hamill",
       "id": 10
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Bronze Tuna",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Refined Cotton Towels",
+      "id": 15
+    },
+    {
+      "userId": 10,
+      "title": "Handcrafted Bronze Gloves",
+      "id": 16
+    },
+    {
+      "userId": 9,
+      "title": "Incredible Granite Fish",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2383624617852928",
+      "id": 2
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6203525862260736",
+      "id": 3
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8047094298312704",
+      "id": 4
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3034531546267648",
+      "id": 5
+    }
+  ]
 }
